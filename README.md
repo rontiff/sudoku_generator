@@ -1,8 +1,9 @@
 Sudoku Project README
 Overview
 This Sudoku project is an edited version based on the code from DataFlair's Python Sudoku Game tutorial. The primary file for running the Sudoku generator is Main.py.
+This project is edited by myself and also using ChatGPT for enhancement.
 
-Files
+File
 Main.py: This file contains the code to generate 9x9 Sudoku puzzles. Ensure that you do not delete sample.xlsx when running Main.py because it is referenced by the program.
 
 sample.xlsx: This Excel file is referenced by the Main.py program. Do not delete it during execution.
